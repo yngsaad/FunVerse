@@ -1,0 +1,6 @@
+{
+  "name": "FunVerse: Color Match",
+  "description": "Vibrant casual match-3 color puzzle game with multiple grid sizes, combos, offline local high scores, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
